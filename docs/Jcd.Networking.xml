@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jcd.Networking</name>
+    </assembly>
+    <members>
+        <member name="T:Jcd.Networking.Class1">
+            <summary>
+            TODO: Add some documentation as you write your code.
+            </summary>
+        </member>
+        <member name="T:Jcd.Networking.NamespaceDoc">
+            <summary>
+            Provides TODO: A description of what this namespace provides.
+            </summary>
+        </member>
+    </members>
+</doc>
